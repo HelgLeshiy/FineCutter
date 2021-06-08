@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{106488CD-5DD5-4784-9CDA-6F2A03E3A90C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StockCutter", "StockCutter\StockCutter.vcxproj", "{A4104937-03B5-470A-9A85-56F7ACB2042E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{106488CD-5DD5-4784-9CDA-6F2A03E3A90C}.Release|x64.Build.0 = Release|x64
 		{106488CD-5DD5-4784-9CDA-6F2A03E3A90C}.Release|x86.ActiveCfg = Release|Win32
 		{106488CD-5DD5-4784-9CDA-6F2A03E3A90C}.Release|x86.Build.0 = Release|Win32
+		{A4104937-03B5-470A-9A85-56F7ACB2042E}.Debug|x64.ActiveCfg = Debug|x64
+		{A4104937-03B5-470A-9A85-56F7ACB2042E}.Debug|x64.Build.0 = Debug|x64
+		{A4104937-03B5-470A-9A85-56F7ACB2042E}.Debug|x86.ActiveCfg = Debug|Win32
+		{A4104937-03B5-470A-9A85-56F7ACB2042E}.Debug|x86.Build.0 = Debug|Win32
+		{A4104937-03B5-470A-9A85-56F7ACB2042E}.Release|x64.ActiveCfg = Release|x64
+		{A4104937-03B5-470A-9A85-56F7ACB2042E}.Release|x64.Build.0 = Release|x64
+		{A4104937-03B5-470A-9A85-56F7ACB2042E}.Release|x86.ActiveCfg = Release|Win32
+		{A4104937-03B5-470A-9A85-56F7ACB2042E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
